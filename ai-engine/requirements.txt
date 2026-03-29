@@ -1,0 +1,17 @@
+# Smart Traffic Violation Pattern Detector - AI Engine Dependencies
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+requests>=2.31.0
+Pillow>=10.0.0
+
+# Optional: for full YOLO-based detection
+# ultralytics>=8.0.0
+
+# Optional: for license plate OCR
+# easyocr>=1.7.0
+
+# Optional: for GPU acceleration
+# torch>=2.0.0
+# torchvision>=0.15.0
